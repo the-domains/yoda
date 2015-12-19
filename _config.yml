@@ -1,0 +1,28 @@
+name: yoda
+favicon: null
+layout_spectrum: 0.6785890327300876
+typography_spectrum: 0.930009719915688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2241903927642852
+  lightness: 0.7393607241101563
+  saturation: 0.19345999299548566
+  rhythmicContrast: 0.1349599917884916
+purpose: []
